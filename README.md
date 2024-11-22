@@ -17,7 +17,15 @@ yang presentasi nilainya, Nilai Tugas sebesar 30%, Nilai UTS 35%, dan UAS 35%.
 
 6. Jika iya, Program akan mengulang STEP yang Kedua.
 
-7. Jika tidak, maka Program akan berhenti dan output hasil program
+7. Jika tidak, maka Program akan berhenti dan akan memanggil fungsi menampilkan data yang sudah di input.
+
+8. Flowchart ![Flowchart](https://github.com/user-attachments/assets/1f794455-6cc3-450b-9474-a13cc70bf99d)
+
+
+Berikut Hasil dari program di atas <img width="512" alt="image" src="https://github.com/user-attachments/assets/c2a14dda-bbe4-42ad-946e-1593c42e2e6d">
+
+
+
 
 
  
